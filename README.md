@@ -1,2 +1,2 @@
 # Discord-Image-Classification-Bot
-SIGMA
+AI BOT
